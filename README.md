@@ -77,10 +77,11 @@ Penny Pimpin' is a mobile budgeting application that helps users to track and ca
 - GitHub version control
 
 # Team Members
--  Ethan Anthoo    - ST10269386
--  Emilio Govender - ST10381731
--  Deshalin Naicker - ST10287087
--  Denell Vandayer - ST10373357
+-  Denell Vandayer
+-  Ethan Anthoo    
+-  Emilio Govender 
+-  Deshalin Naicker
+
 
 # References 
 https://www.geeksforgeeks.org/android-studio-tutorial/
