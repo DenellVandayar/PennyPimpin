@@ -175,9 +175,6 @@ Users can analyse expenditure trends through:
 # 👥 Team Members
 
 - **Denell Vandayer**
-- **Ethan Anthoo**
-- **Emilio Govender**
-- **Deshalin Naicker**
 
 ---
 
